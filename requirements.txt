@@ -1,0 +1,49 @@
+# Backend
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+websockets>=12.0
+
+# Frontend
+streamlit>=1.29.0
+
+# AI/LLM
+openai>=1.12.0
+
+# Scheduler
+apscheduler>=3.10.4
+
+# Vector database
+chromadb>=0.4.22
+
+# Google APIs
+google-api-python-client>=2.111.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.0
+
+# Configuration & validation
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# HTTP & async
+httpx>=0.26.0
+
+# Document processing
+pypdf>=4.0.0
+python-docx>=1.1.0
+
+# Web scraping
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Social media
+praw>=7.7.1
+tweepy>=4.14.0
+
+# Image processing
+pillow>=10.2.0
+
+# Utilities
+python-multipart>=0.0.6
+aiofiles>=23.2.1
+python-dateutil>=2.8.2

@@ -26,6 +26,8 @@ wheels/
 
 # Credentials
 config/credentials.json
+config/token_calendar.json
+config/token_gmail.json
 config/token_*.json
 *.token.json
 token.pickle
